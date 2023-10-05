@@ -10,16 +10,15 @@
 <img src="https://miro.medium.com/max/365/1*Jr3NFSKTfQWRUyjblBSKeg.png" height="100">
 </p>
 
-Link to the app
+Link to the app (currently offline, due to expiration of domain)
 https://dedeen2b.tk/
-
-Mock PayPal user:
-Username:sb-gleno15567032@personal.example.com
-Password:4;(5K/fs
 
 Link to the documentation
 https://arquisoft.github.io/dede_en2b/
 
+Mock PayPal user:
+Username:sb-gleno15567032@personal.example.com
+Password:4;(5K/fs
 
 This project is a basic example of website using **React** with **Typescript** and an endpoint using **NodeJS** with **express**.
 
